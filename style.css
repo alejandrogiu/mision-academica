@@ -851,3 +851,7 @@ background: rgba(10,10,10,0.06);
 transform: translateY(-4px);
 box-shadow: 0 15px 30px rgba(0,0,0,0.12);
 }
+
+.section.brochure-section + .section.brochure-section {
+padding-top: 0;
+}

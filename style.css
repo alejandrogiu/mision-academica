@@ -816,6 +816,10 @@ footer p {
   box-shadow: 0 20px 40px rgba(0,0,0,0.08);
 }
 
+.brochure-box {
+padding-top: 3rem;
+}
+
 .brochure-box h2 {
   font-size: 2.6rem;
   font-weight: 900;
